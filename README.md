@@ -5,7 +5,7 @@
 
 Some facts about me:
 
-- 🔭 I’m currently working on External Projects with consultants
+- 🔭 I’m currently working on External Data Science Projects with consultants
 - 🌱 I’m currently learning Software Engineering to know how to deploy my projects
 - 👯 I’m looking to collaborate on Software Engineering Projects.
 - 🤔 I’m looking for help with landing a new job
