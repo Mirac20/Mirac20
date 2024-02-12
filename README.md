@@ -8,9 +8,9 @@ Some facts about me:
 - 🔭 I’m currently working on External Data Science Projects with consultants
 - 🌱 I’m currently learning Software Engineering to know how to deploy my projects
 - 👯 I’m looking to collaborate on Software Engineering Projects.
-- 🤔 I’m looking for help with landing a new job
+- 🤔 I’m looking for help with landing a new job LinkedIn: https://www.linkedin.com/in/gbenga-m-adebisi/
 - 💬 Ask me about the projects that I have done for clarity
-- 📫 How to reach me: adebisigbenga50@gmail.com
+- 📫 How to reach me: adebisigbenga50@gmail.com, 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Play the Piano Professionally
   
